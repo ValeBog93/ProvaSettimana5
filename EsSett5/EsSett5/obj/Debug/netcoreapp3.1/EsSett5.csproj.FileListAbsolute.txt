@@ -1,0 +1,13 @@
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.exe
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.deps.json
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.runtimeconfig.json
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.runtimeconfig.dev.json
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.dll
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\bin\Debug\netcoreapp3.1\EsSett5.pdb
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.dll
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.pdb
+C:\Users\faggi\OneDrive\Desktop\Es5Sett\EsSett5\EsSett5\obj\Debug\netcoreapp3.1\EsSett5.genruntimeconfig.cache
